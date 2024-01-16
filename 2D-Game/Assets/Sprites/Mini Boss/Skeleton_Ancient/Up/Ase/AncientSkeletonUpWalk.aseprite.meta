@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: f46c425ee72576e4da8e93deac13672c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: AncientSkeletonUpWalk_Frame_0
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.3090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 193
+      width: 35
+      height: 55
+    spriteID: f94238beef2064a4a8934cb408217745
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 193}
+  - name: AncientSkeletonUpWalk_Frame_1
+    originalName: 
+    pivot: {x: 0.47058824, y: -0.2909091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 67
+      width: 34
+      height: 55
+    spriteID: ea700d27974423845895394b4a3b88d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 67}
+  - name: AncientSkeletonUpWalk_Frame_2
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.27272728}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 130
+      width: 34
+      height: 55
+    spriteID: f15ced795d5faec49930d68e86e80d8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 130}
+  - name: AncientSkeletonUpWalk_Frame_3
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.25454545}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 193
+      width: 34
+      height: 55
+    spriteID: 84b243c4ccc36bc4ba3ed461eff92230
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 193}
+  - name: AncientSkeletonUpWalk_Frame_4
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.3090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 4
+      width: 35
+      height: 55
+    spriteID: 191286ef4cdf20a448dd72d477b5a329
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 4}
+  - name: AncientSkeletonUpWalk_Frame_5
+    originalName: 
+    pivot: {x: 0.4166667, y: -0.2909091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 130
+      width: 36
+      height: 55
+    spriteID: 52d8a8ea44688374c88b13f024eb2f1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 130}
+  - name: AncientSkeletonUpWalk_Frame_6
+    originalName: 
+    pivot: {x: 0.4054054, y: -0.27272728}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 37
+      height: 55
+    spriteID: ebb897bebbb5e0d4688f5241b36d9f80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: AncientSkeletonUpWalk_Frame_7
+    originalName: 
+    pivot: {x: 0.4054054, y: -0.25454545}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 67
+      width: 37
+      height: 55
+    spriteID: abf5d53661cf9bb489d1cfca2f66eab0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 67}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1447925595
+    name: AncientSkeletonUpWalk
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: AncientSkeletonUpWalk_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 25
+        y: 17
+        width: 35
+        height: 55
+      spriteId: f94238beef2064a4a8934cb408217745
+    - name: AncientSkeletonUpWalk_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 24
+        y: 16
+        width: 34
+        height: 55
+      spriteId: ea700d27974423845895394b4a3b88d2
+    - name: AncientSkeletonUpWalk_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 23
+        y: 15
+        width: 34
+        height: 55
+      spriteId: f15ced795d5faec49930d68e86e80d8b
+    - name: AncientSkeletonUpWalk_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 23
+        y: 14
+        width: 34
+        height: 55
+      spriteId: 84b243c4ccc36bc4ba3ed461eff92230
+    - name: AncientSkeletonUpWalk_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 25
+        y: 17
+        width: 35
+        height: 55
+      spriteId: 191286ef4cdf20a448dd72d477b5a329
+    - name: AncientSkeletonUpWalk_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 25
+        y: 16
+        width: 36
+        height: 55
+      spriteId: 52d8a8ea44688374c88b13f024eb2f1c
+    - name: AncientSkeletonUpWalk_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 25
+        y: 15
+        width: 37
+        height: 55
+      spriteId: ebb897bebbb5e0d4688f5241b36d9f80
+    - name: AncientSkeletonUpWalk_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 25
+        y: 14
+        width: 37
+        height: 55
+      spriteId: abf5d53661cf9bb489d1cfca2f66eab0
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

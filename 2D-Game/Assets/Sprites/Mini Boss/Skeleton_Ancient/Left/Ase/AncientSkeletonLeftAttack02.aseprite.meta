@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: d8b887840f877a740b0175b771dca99c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: AncientSkeletonLeftAttack02_Frame_3
+    originalName: 
+    pivot: {x: 0.5211268, y: -0.012658228}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 71
+      height: 79
+    spriteID: 88855a2410d6c3b4085452a7e9c4a9e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: AncientSkeletonLeftAttack02_Frame_4
+    originalName: 
+    pivot: {x: 0.3870968, y: -0.26984128}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 4
+      width: 62
+      height: 63
+    spriteID: fcafd92117b7f5a4faa520d39b77bef9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 4}
+  - name: AncientSkeletonLeftAttack02_Frame_5
+    originalName: 
+    pivot: {x: 0.3870968, y: -0.26984128}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 75
+      width: 62
+      height: 63
+    spriteID: 2c0c737329f61bd489b47c7b35ab4242
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 75}
+  - name: AncientSkeletonLeftAttack02_Frame_9
+    originalName: 
+    pivot: {x: 0.5211268, y: -0.012658228}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 91
+      width: 71
+      height: 79
+    spriteID: 05cd983770fb8864096cf115fedfb1e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 91}
+  - name: AncientSkeletonLeftAttack02_Frame_10
+    originalName: 
+    pivot: {x: 0.375, y: -0.29824564}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 153
+      y: 4
+      width: 64
+      height: 57
+    spriteID: c8af2b1745f509e4292dceadc50e55ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 153, y: 4}
+  - name: AncientSkeletonLeftAttack02_Frame_11
+    originalName: 
+    pivot: {x: 0.38095242, y: -0.29824564}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 153
+      y: 69
+      width: 63
+      height: 57
+    spriteID: 22f217d52f4355a4bb90fddb97ce8d87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 153, y: 69}
+  - name: AncientSkeletonLeftAttack02_Frame_12
+    originalName: 
+    pivot: {x: 0.39344263, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 219
+      width: 61
+      height: 58
+    spriteID: 067c1713961bbce40b96e52ebf6b99a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 219}
+  - name: AncientSkeletonLeftAttack02_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.2631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 285
+      width: 48
+      height: 57
+    spriteID: ff65bc7c5340c414e95e60e1ba720032
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 285}
+  - name: AncientSkeletonLeftAttack02_Frame_1
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.12307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 146
+      width: 56
+      height: 65
+    spriteID: d583180531c1f58448232ef96aec5a8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 146}
+  - name: AncientSkeletonLeftAttack02_Frame_2
+    originalName: 
+    pivot: {x: 0.3870968, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 265
+      width: 62
+      height: 74
+    spriteID: 431d492d6e6a65e40b6cd5e116ed0915
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 265}
+  - name: AncientSkeletonLeftAttack02_Frame_6
+    originalName: 
+    pivot: {x: 0.5211268, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 178
+      width: 71
+      height: 79
+    spriteID: f0c5e5ef77b2a92409c91cc7fa4bbc4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 178}
+  - name: AncientSkeletonLeftAttack02_Frame_7
+    originalName: 
+    pivot: {x: 0.3870968, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 347
+      width: 62
+      height: 74
+    spriteID: e3a14569f01fa6b4a8cb70a98179decf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 347}
+  - name: AncientSkeletonLeftAttack02_Frame_8
+    originalName: 
+    pivot: {x: 0.3870968, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 429
+      width: 62
+      height: 74
+    spriteID: fac0b12ddd5c2f84484e0a87e3e60b77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 429}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -20386566
+    name: AncientSkeletonLeftAttack02
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: AncientSkeletonLeftAttack02_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 3
+        y: 1
+        width: 71
+        height: 79
+      spriteId: 88855a2410d6c3b4085452a7e9c4a9e0
+    - name: AncientSkeletonLeftAttack02_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 16
+        y: 17
+        width: 62
+        height: 63
+      spriteId: fcafd92117b7f5a4faa520d39b77bef9
+    - name: AncientSkeletonLeftAttack02_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 16
+        y: 17
+        width: 62
+        height: 63
+      spriteId: 2c0c737329f61bd489b47c7b35ab4242
+    - name: AncientSkeletonLeftAttack02_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 3
+        y: 1
+        width: 71
+        height: 79
+      spriteId: 05cd983770fb8864096cf115fedfb1e6
+    - name: AncientSkeletonLeftAttack02_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 16
+        y: 17
+        width: 64
+        height: 57
+      spriteId: c8af2b1745f509e4292dceadc50e55ed
+    - name: AncientSkeletonLeftAttack02_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 16
+        y: 17
+        width: 63
+        height: 57
+      spriteId: 22f217d52f4355a4bb90fddb97ce8d87
+    - name: AncientSkeletonLeftAttack02_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 16
+        y: 16
+        width: 61
+        height: 58
+      spriteId: 067c1713961bbce40b96e52ebf6b99a0
+    - name: AncientSkeletonLeftAttack02_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 16
+        y: 15
+        width: 48
+        height: 57
+      spriteId: ff65bc7c5340c414e95e60e1ba720032
+    - name: AncientSkeletonLeftAttack02_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 16
+        y: 8
+        width: 56
+        height: 65
+      spriteId: d583180531c1f58448232ef96aec5a8d
+    - name: AncientSkeletonLeftAttack02_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 16
+        y: 0
+        width: 62
+        height: 74
+      spriteId: 431d492d6e6a65e40b6cd5e116ed0915
+    - name: AncientSkeletonLeftAttack02_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 3
+        y: 0
+        width: 71
+        height: 79
+      spriteId: f0c5e5ef77b2a92409c91cc7fa4bbc4e
+    - name: AncientSkeletonLeftAttack02_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 16
+        y: 0
+        width: 62
+        height: 74
+      spriteId: e3a14569f01fa6b4a8cb70a98179decf
+    - name: AncientSkeletonLeftAttack02_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 16
+        y: 0
+        width: 62
+        height: 74
+      spriteId: fac0b12ddd5c2f84484e0a87e3e60b77
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: d79bed3ad0888b34cb225d4a0bcc64e9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: SkeletonKingRightDeath_Frame_0
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.24242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 29
+      height: 33
+    spriteID: 05c34dbc70b8e1a4b81203690d49081b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: SkeletonKingRightDeath_Frame_1
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.24242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 45
+      width: 29
+      height: 33
+    spriteID: b49d9b7ab315c0444b4f44b39047328d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 45}
+  - name: SkeletonKingRightDeath_Frame_2
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.24242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 86
+      width: 29
+      height: 33
+    spriteID: 530dab3ce188f1048ab3314715532a48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 86}
+  - name: SkeletonKingRightDeath_Frame_3
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.24242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 4
+      width: 20
+      height: 33
+    spriteID: a29de82de0280c94e98b60eb85c93d1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 4}
+  - name: SkeletonKingRightDeath_Frame_4
+    originalName: 
+    pivot: {x: 0.5555556, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 45
+      width: 18
+      height: 21
+    spriteID: 85c08ec989619c346974355cde013d25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 45}
+  - name: SkeletonKingRightDeath_Frame_5
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 107
+      width: 16
+      height: 7
+    spriteID: 3e2a86d19111d3f47b91e9f3e9c1f591
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 107}
+  - name: SkeletonKingRightDeath_Frame_6
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.4285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 4
+      width: 16
+      height: 7
+    spriteID: 8fe678f3828e1a744b3a65185bcf771e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 4}
+  - name: SkeletonKingRightDeath_Frame_7
+    originalName: 
+    pivot: {x: 0.5294118, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 91
+      width: 17
+      height: 8
+    spriteID: f8b6910bbd0551a4ea54535dadf83aec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 91}
+  - name: SkeletonKingRightDeath_Frame_8
+    originalName: 
+    pivot: {x: 0.55, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 74
+      width: 20
+      height: 9
+    spriteID: 61e5016ec00ce594d84c811a43704e81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 74}
+  - name: SkeletonKingRightDeath_Frame_9
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 19
+      width: 16
+      height: 7
+    spriteID: 614983ec8c2103e45becd0ec885ccd56
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 19}
+  - name: SkeletonKingRightDeath_Frame_10
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 34
+      width: 16
+      height: 7
+    spriteID: 6aeb6031cfd9e2941bfbb9fdead0f9e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 34}
+  - name: SkeletonKingRightDeath_Frame_11
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 49
+      width: 16
+      height: 7
+    spriteID: e1eefea216e1af94ab19637674e7602a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 49}
+  - name: SkeletonKingRightDeath_Frame_12
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 64
+      width: 16
+      height: 7
+    spriteID: 35005cf60dafc7547b9b93b233a79f1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 64}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1988915274
+    name: SkeletonKingRightDeath
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: SkeletonKingRightDeath_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 9
+        y: 8
+        width: 29
+        height: 33
+      spriteId: 05c34dbc70b8e1a4b81203690d49081b
+    - name: SkeletonKingRightDeath_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 9
+        y: 8
+        width: 29
+        height: 33
+      spriteId: b49d9b7ab315c0444b4f44b39047328d
+    - name: SkeletonKingRightDeath_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 9
+        y: 8
+        width: 29
+        height: 33
+      spriteId: 530dab3ce188f1048ab3314715532a48
+    - name: SkeletonKingRightDeath_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 14
+        y: 8
+        width: 20
+        height: 33
+      spriteId: a29de82de0280c94e98b60eb85c93d1f
+    - name: SkeletonKingRightDeath_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 14
+        y: 21
+        width: 18
+        height: 21
+      spriteId: 85c08ec989619c346974355cde013d25
+    - name: SkeletonKingRightDeath_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 16
+        y: 8
+        width: 16
+        height: 7
+      spriteId: 3e2a86d19111d3f47b91e9f3e9c1f591
+    - name: SkeletonKingRightDeath_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 16
+        y: 10
+        width: 16
+        height: 7
+      spriteId: 8fe678f3828e1a744b3a65185bcf771e
+    - name: SkeletonKingRightDeath_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 15
+        y: 8
+        width: 17
+        height: 8
+      spriteId: f8b6910bbd0551a4ea54535dadf83aec
+    - name: SkeletonKingRightDeath_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 13
+        y: 9
+        width: 20
+        height: 9
+      spriteId: 61e5016ec00ce594d84c811a43704e81
+    - name: SkeletonKingRightDeath_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 16
+        y: 8
+        width: 16
+        height: 7
+      spriteId: 614983ec8c2103e45becd0ec885ccd56
+    - name: SkeletonKingRightDeath_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 16
+        y: 8
+        width: 16
+        height: 7
+      spriteId: 6aeb6031cfd9e2941bfbb9fdead0f9e3
+    - name: SkeletonKingRightDeath_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 16
+        y: 8
+        width: 16
+        height: 7
+      spriteId: e1eefea216e1af94ab19637674e7602a
+    - name: SkeletonKingRightDeath_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 16
+        y: 8
+        width: 16
+        height: 7
+      spriteId: 35005cf60dafc7547b9b93b233a79f1c
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 48, y: 48}

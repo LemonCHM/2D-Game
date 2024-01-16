@@ -1,0 +1,526 @@
+fileFormatVersion: 2
+guid: 89dbd2e050680be44afc06b8a205939a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: GoblinBeastUpAttack03_Frame_3
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 36
+      y: 4
+      width: 22
+      height: 32
+    spriteID: 03bcacab8ab70ec43bd8b34ad61acd48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 36, y: 4}
+  - name: GoblinBeastUpAttack03_Frame_10
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 36
+      y: 44
+      width: 22
+      height: 32
+    spriteID: 8ef6349def10f5342a2978190adc0d26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 36, y: 44}
+  - name: GoblinBeastUpAttack03_Frame_5
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 36
+      y: 84
+      width: 22
+      height: 32
+    spriteID: 42bc59dc3e7d94d40b0077590b38d525
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 36, y: 84}
+  - name: GoblinBeastUpAttack03_Frame_12
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.46875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 36
+      y: 124
+      width: 22
+      height: 32
+    spriteID: cb8f39a481e0d554abb8e40b6a982ab7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 36, y: 124}
+  - name: GoblinBeastUpAttack03_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 24
+      height: 33
+    spriteID: a9440c7406335dc41bb5f61d2ba9ac8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: GoblinBeastUpAttack03_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 45
+      width: 24
+      height: 33
+    spriteID: 6f19e98d1b5745541b1498453da8d01b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 45}
+  - name: GoblinBeastUpAttack03_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 86
+      width: 24
+      height: 33
+    spriteID: 4091af3a6eb6427448571eb433ea5219
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 86}
+  - name: GoblinBeastUpAttack03_Frame_4
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.48387095}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 36
+      y: 164
+      width: 22
+      height: 31
+    spriteID: ef172e68fc630514da568d03fa363361
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 36, y: 164}
+  - name: GoblinBeastUpAttack03_Frame_6
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.48387095}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 36
+      y: 203
+      width: 22
+      height: 31
+    spriteID: 6bc2aaf24d49e7b48a6d85363bc75365
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 36, y: 203}
+  - name: GoblinBeastUpAttack03_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: -0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 127
+      width: 24
+      height: 33
+    spriteID: 178727dc7b1dac94dad02dd2b3515c76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 127}
+  - name: GoblinBeastUpAttack03_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 168
+      width: 24
+      height: 33
+    spriteID: 893d43687bcc66a46bac3fa0d496f3ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 168}
+  - name: GoblinBeastUpAttack03_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 209
+      width: 24
+      height: 33
+    spriteID: e2d0d8ebdb1e3da4e8f00f762fd475f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 209}
+  - name: GoblinBeastUpAttack03_Frame_11
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.48387095}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 4
+      width: 22
+      height: 31
+    spriteID: 42444b73228b3ac4bbf0137862f21e35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 4}
+  - name: GoblinBeastUpAttack03_Frame_13
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.48387095}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 43
+      width: 22
+      height: 31
+    spriteID: d6124a607f8b0284eb47999657f82dde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 43}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1927704628
+    name: GoblinBeastUpAttack03
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: GoblinBeastUpAttack03_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 20
+        y: 15
+        width: 22
+        height: 32
+      spriteId: 03bcacab8ab70ec43bd8b34ad61acd48
+    - name: GoblinBeastUpAttack03_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 20
+        y: 15
+        width: 22
+        height: 32
+      spriteId: 8ef6349def10f5342a2978190adc0d26
+    - name: GoblinBeastUpAttack03_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 22
+        y: 15
+        width: 22
+        height: 32
+      spriteId: 42bc59dc3e7d94d40b0077590b38d525
+    - name: GoblinBeastUpAttack03_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 22
+        y: 15
+        width: 22
+        height: 32
+      spriteId: cb8f39a481e0d554abb8e40b6a982ab7
+    - name: GoblinBeastUpAttack03_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 20
+        y: 15
+        width: 24
+        height: 33
+      spriteId: a9440c7406335dc41bb5f61d2ba9ac8d
+    - name: GoblinBeastUpAttack03_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 20
+        y: 15
+        width: 24
+        height: 33
+      spriteId: 6f19e98d1b5745541b1498453da8d01b
+    - name: GoblinBeastUpAttack03_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 20
+        y: 15
+        width: 24
+        height: 33
+      spriteId: 4091af3a6eb6427448571eb433ea5219
+    - name: GoblinBeastUpAttack03_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 20
+        y: 15
+        width: 22
+        height: 31
+      spriteId: ef172e68fc630514da568d03fa363361
+    - name: GoblinBeastUpAttack03_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 22
+        y: 15
+        width: 22
+        height: 31
+      spriteId: 6bc2aaf24d49e7b48a6d85363bc75365
+    - name: GoblinBeastUpAttack03_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 20
+        y: 15
+        width: 24
+        height: 33
+      spriteId: 178727dc7b1dac94dad02dd2b3515c76
+    - name: GoblinBeastUpAttack03_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 20
+        y: 15
+        width: 24
+        height: 33
+      spriteId: 893d43687bcc66a46bac3fa0d496f3ec
+    - name: GoblinBeastUpAttack03_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 20
+        y: 15
+        width: 24
+        height: 33
+      spriteId: e2d0d8ebdb1e3da4e8f00f762fd475f0
+    - name: GoblinBeastUpAttack03_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 20
+        y: 15
+        width: 22
+        height: 31
+      spriteId: 42444b73228b3ac4bbf0137862f21e35
+    - name: GoblinBeastUpAttack03_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 22
+        y: 15
+        width: 22
+        height: 31
+      spriteId: d6124a607f8b0284eb47999657f82dde
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 64}

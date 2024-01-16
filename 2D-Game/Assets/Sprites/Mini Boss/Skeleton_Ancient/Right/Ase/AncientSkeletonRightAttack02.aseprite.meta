@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: efc8f2420c4171f4b94e5e4dd56d1000
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: AncientSkeletonRightAttack02_Frame_3
+    originalName: 
+    pivot: {x: 0.47887328, y: -0.012658228}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 71
+      height: 79
+    spriteID: 4c5668f79f5d2d34a948e616b8b098bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: AncientSkeletonRightAttack02_Frame_4
+    originalName: 
+    pivot: {x: 0.6129032, y: -0.26984128}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 4
+      width: 62
+      height: 63
+    spriteID: d56307473f53b25439412c5f9e9f1618
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 4}
+  - name: AncientSkeletonRightAttack02_Frame_5
+    originalName: 
+    pivot: {x: 0.6129032, y: -0.26984128}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 75
+      width: 62
+      height: 63
+    spriteID: 14420e7ef4948ac4b9b829278839aca8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 75}
+  - name: AncientSkeletonRightAttack02_Frame_9
+    originalName: 
+    pivot: {x: 0.47887328, y: -0.012658228}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 91
+      width: 71
+      height: 79
+    spriteID: ab05e9b5a6d40d048ada637827fb7ea4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 91}
+  - name: AncientSkeletonRightAttack02_Frame_10
+    originalName: 
+    pivot: {x: 0.625, y: -0.29824564}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 153
+      y: 4
+      width: 64
+      height: 57
+    spriteID: 20d28741b214ed5418b8f42ac734dfe1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 153, y: 4}
+  - name: AncientSkeletonRightAttack02_Frame_11
+    originalName: 
+    pivot: {x: 0.61904764, y: -0.29824564}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 153
+      y: 69
+      width: 63
+      height: 57
+    spriteID: 702ad79ca87e9564c8097c5bc7778877
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 153, y: 69}
+  - name: AncientSkeletonRightAttack02_Frame_12
+    originalName: 
+    pivot: {x: 0.60655737, y: -0.27586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 219
+      width: 61
+      height: 58
+    spriteID: a1a12fbdacf8f33459b4e7d4c1269a4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 219}
+  - name: AncientSkeletonRightAttack02_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.2631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 285
+      width: 48
+      height: 57
+    spriteID: 048698292f9040544a66f1ea30beab1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 285}
+  - name: AncientSkeletonRightAttack02_Frame_1
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.12307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 146
+      width: 56
+      height: 65
+    spriteID: e4391ae062bd2b74ab9e7e1071f2942b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 146}
+  - name: AncientSkeletonRightAttack02_Frame_2
+    originalName: 
+    pivot: {x: 0.6129032, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 265
+      width: 62
+      height: 74
+    spriteID: a9a33f82db835b74abd10d3e7d71efc0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 265}
+  - name: AncientSkeletonRightAttack02_Frame_6
+    originalName: 
+    pivot: {x: 0.47887328, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 178
+      width: 71
+      height: 79
+    spriteID: 51f690971165ab040a35736dcc41b062
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 178}
+  - name: AncientSkeletonRightAttack02_Frame_7
+    originalName: 
+    pivot: {x: 0.6129032, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 347
+      width: 62
+      height: 74
+    spriteID: df60c4f23245aac46a98c387e3604b97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 347}
+  - name: AncientSkeletonRightAttack02_Frame_8
+    originalName: 
+    pivot: {x: 0.6129032, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 429
+      width: 62
+      height: 74
+    spriteID: 5f0d96681af915242800e1352d9ba83a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 429}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 111529113
+    name: AncientSkeletonRightAttack02
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: AncientSkeletonRightAttack02_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 6
+        y: 1
+        width: 71
+        height: 79
+      spriteId: 4c5668f79f5d2d34a948e616b8b098bb
+    - name: AncientSkeletonRightAttack02_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 2
+        y: 17
+        width: 62
+        height: 63
+      spriteId: d56307473f53b25439412c5f9e9f1618
+    - name: AncientSkeletonRightAttack02_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 2
+        y: 17
+        width: 62
+        height: 63
+      spriteId: 14420e7ef4948ac4b9b829278839aca8
+    - name: AncientSkeletonRightAttack02_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 6
+        y: 1
+        width: 71
+        height: 79
+      spriteId: ab05e9b5a6d40d048ada637827fb7ea4
+    - name: AncientSkeletonRightAttack02_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: 17
+        width: 64
+        height: 57
+      spriteId: 20d28741b214ed5418b8f42ac734dfe1
+    - name: AncientSkeletonRightAttack02_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 1
+        y: 17
+        width: 63
+        height: 57
+      spriteId: 702ad79ca87e9564c8097c5bc7778877
+    - name: AncientSkeletonRightAttack02_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 3
+        y: 16
+        width: 61
+        height: 58
+      spriteId: a1a12fbdacf8f33459b4e7d4c1269a4c
+    - name: AncientSkeletonRightAttack02_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 16
+        y: 15
+        width: 48
+        height: 57
+      spriteId: 048698292f9040544a66f1ea30beab1a
+    - name: AncientSkeletonRightAttack02_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 8
+        y: 8
+        width: 56
+        height: 65
+      spriteId: e4391ae062bd2b74ab9e7e1071f2942b
+    - name: AncientSkeletonRightAttack02_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 2
+        y: 0
+        width: 62
+        height: 74
+      spriteId: a9a33f82db835b74abd10d3e7d71efc0
+    - name: AncientSkeletonRightAttack02_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 6
+        y: 0
+        width: 71
+        height: 79
+      spriteId: 51f690971165ab040a35736dcc41b062
+    - name: AncientSkeletonRightAttack02_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 2
+        y: 0
+        width: 62
+        height: 74
+      spriteId: df60c4f23245aac46a98c387e3604b97
+    - name: AncientSkeletonRightAttack02_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 2
+        y: 0
+        width: 62
+        height: 74
+      spriteId: 5f0d96681af915242800e1352d9ba83a
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}

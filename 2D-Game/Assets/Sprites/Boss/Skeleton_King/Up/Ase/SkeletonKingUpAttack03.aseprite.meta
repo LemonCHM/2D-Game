@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: 62e9f6d5727341a48a0cc7b01278dffa
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: SkeletonKingUpAttack03_Frame_0
+    originalName: 
+    pivot: {x: 0.37931034, y: -0.4848485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 62
+      width: 29
+      height: 33
+    spriteID: ccf1e38d5d9e20e448148c90eaec59b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 62}
+  - name: SkeletonKingUpAttack03_Frame_1
+    originalName: 
+    pivot: {x: 0.76744187, y: -0.42105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 62
+      width: 43
+      height: 38
+    spriteID: e6ee291e1c27551489bed62fac98d11b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 62}
+  - name: SkeletonKingUpAttack03_Frame_2
+    originalName: 
+    pivot: {x: 0.68085104, y: -0.47058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 62
+      width: 47
+      height: 34
+    spriteID: 1b80b8ad30165bc44a0870c71b11f791
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 62}
+  - name: SkeletonKingUpAttack03_Frame_3
+    originalName: 
+    pivot: {x: 0.68085104, y: -0.47058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 62
+      width: 47
+      height: 34
+    spriteID: cbe6cfc8badffb644a5407db200894f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 165, y: 62}
+  - name: SkeletonKingUpAttack03_Frame_4
+    originalName: 
+    pivot: {x: 0.68085104, y: -0.47058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 108
+      width: 47
+      height: 34
+    spriteID: 7bd8a4ebfbc2b7849af51450ccc28292
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 108}
+  - name: SkeletonKingUpAttack03_Frame_5
+    originalName: 
+    pivot: {x: 0.68085104, y: -0.47058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 108
+      width: 47
+      height: 34
+    spriteID: 209ed61eada0a5a49878f0402db3798b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 108}
+  - name: SkeletonKingUpAttack03_Frame_6
+    originalName: 
+    pivot: {x: 0.68085104, y: -0.42105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 62
+      width: 47
+      height: 38
+    spriteID: febee968327d71242af2e75b353cd33c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 62}
+  - name: SkeletonKingUpAttack03_Frame_7
+    originalName: 
+    pivot: {x: 0.6530612, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 4
+      width: 49
+      height: 40
+    spriteID: da2521981e90b324ab32177eeb3b2c20
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 4}
+  - name: SkeletonKingUpAttack03_Frame_8
+    originalName: 
+    pivot: {x: 0.64, y: -0.35714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 142
+      y: 4
+      width: 50
+      height: 42
+    spriteID: 9ccf69a0e085b654bb06062afccd5815
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 4}
+  - name: SkeletonKingUpAttack03_Frame_9
+    originalName: 
+    pivot: {x: 0.55172414, y: -0.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 4
+      width: 58
+      height: 42
+    spriteID: 0bde929a43b1bea469187e65ecf76851
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 4}
+  - name: SkeletonKingUpAttack03_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 64
+      height: 50
+    spriteID: 238279bafcaf69a46bba1c980735e268
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: SkeletonKingUpAttack03_Frame_11
+    originalName: 
+    pivot: {x: 0.68085104, y: -0.47058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 108
+      width: 47
+      height: 34
+    spriteID: 5e94d451b27bfc841ae7b6ac7fc9ad77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 108}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 107125998
+    name: SkeletonKingUpAttack03
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: SkeletonKingUpAttack03_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 21
+        y: 16
+        width: 29
+        height: 33
+      spriteId: ccf1e38d5d9e20e448148c90eaec59b7
+    - name: SkeletonKingUpAttack03_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: -1
+        y: 16
+        width: 43
+        height: 38
+      spriteId: e6ee291e1c27551489bed62fac98d11b
+    - name: SkeletonKingUpAttack03_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: 16
+        width: 47
+        height: 34
+      spriteId: 1b80b8ad30165bc44a0870c71b11f791
+    - name: SkeletonKingUpAttack03_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: 16
+        width: 47
+        height: 34
+      spriteId: cbe6cfc8badffb644a5407db200894f7
+    - name: SkeletonKingUpAttack03_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: 16
+        width: 47
+        height: 34
+      spriteId: 7bd8a4ebfbc2b7849af51450ccc28292
+    - name: SkeletonKingUpAttack03_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: 16
+        width: 47
+        height: 34
+      spriteId: 209ed61eada0a5a49878f0402db3798b
+    - name: SkeletonKingUpAttack03_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 16
+        width: 47
+        height: 38
+      spriteId: febee968327d71242af2e75b353cd33c
+    - name: SkeletonKingUpAttack03_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: 16
+        width: 49
+        height: 40
+      spriteId: da2521981e90b324ab32177eeb3b2c20
+    - name: SkeletonKingUpAttack03_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 0
+        y: 15
+        width: 50
+        height: 42
+      spriteId: 9ccf69a0e085b654bb06062afccd5815
+    - name: SkeletonKingUpAttack03_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: 8
+        width: 58
+        height: 42
+      spriteId: 0bde929a43b1bea469187e65ecf76851
+    - name: SkeletonKingUpAttack03_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: 0
+        width: 64
+        height: 50
+      spriteId: 238279bafcaf69a46bba1c980735e268
+    - name: SkeletonKingUpAttack03_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: 16
+        width: 47
+        height: 34
+      spriteId: 5e94d451b27bfc841ae7b6ac7fc9ad77
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 64}
